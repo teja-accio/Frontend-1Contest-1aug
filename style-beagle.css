@@ -1,0 +1,28 @@
+html, body {
+    min-height: 100%;
+}
+body{
+    padding: 2rem;
+}
+.imgbeagle{
+    width: 1051px;
+height: 762px;
+flex-shrink: 0;
+margin:10px;
+}
+.div1{
+    border: solid black;
+    margin: 10px
+}
+.div2{
+    
+    margin: 10px
+}
+.div3{
+   margin: 10px;
+}
+*{
+    color: #000;
+font-family: Inter;
+}
+
